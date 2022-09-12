@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunilkumareddyb" target="blank"><img src="https://img.shields.io/twitter/follow/sunilkumareddyb?logo=twitter&style=for-the-badge" alt="sunilkumareddyb" /></a> </p>
 
-- 🔭 I’m currently Learning on **Full Stack Developer**
+- 🔭 I’m currently Learning on **Full Stack Java Developer**
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [sunilkumareddy.com](sunilkumareddy.com)
 
-- 💬 Ask me about **React, Angular, Vue, Typescript,Java,SQL**
+- 💬 Ask me about **React, Angular, Vue, Typescript,Java,SQL aws **
 
 - 📫 How to reach me **reddysunil5411@gmail.com**
 
